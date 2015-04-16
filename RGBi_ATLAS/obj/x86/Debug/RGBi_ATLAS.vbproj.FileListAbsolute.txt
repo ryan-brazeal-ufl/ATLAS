@@ -1,0 +1,17 @@
+C:\Users\brazealr\Documents\Personal Files\Ryan's School\U of F\SUR6905\3.Project\RGBi_ATLAS v1.0 - Aug 8 2013\obj\x86\Debug\RGBi_ATLAS.exe
+C:\Users\brazealr\Documents\Personal Files\Ryan's School\U of F\SUR6905\3.Project\RGBi_ATLAS v1.0 - Aug 8 2013\obj\x86\Debug\RGBi_ATLAS.xml
+C:\Users\brazealr\Documents\Personal Files\Ryan's School\U of F\SUR6905\3.Project\RGBi_ATLAS v1.0 - Aug 8 2013\obj\x86\Debug\RGBi_ATLAS.pdb
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\bin\Debug\RGBi_ATLAS.exe
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\bin\Debug\RGBi_ATLAS.pdb
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\bin\Debug\RGBi_ATLAS.xml
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.AboutBox1.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.histogramForm.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.mainForm.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.Resources.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.targetProcessingOptions.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.textFormatForm.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.transParameters.resources
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.vbproj.GenerateResource.Cache
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.exe
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.xml
+C:\Users\brazealr\Documents\Teaching Materials\Programming\RGBi_ATLAS\obj\x86\Debug\RGBi_ATLAS.pdb
